@@ -1,0 +1,14 @@
+ # ---> Java
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*.log.*
+
+
+# Package Files #
+*.jar
+
+/target/*
+/indexpath/
